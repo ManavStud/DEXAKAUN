@@ -1,9 +1,3 @@
-<pre style="font-size: 100 px;">
-██▓▒­░⡷⠂𝙳𝙴𝚇𝙰𝙺𝙰𝚄𝙽⠐⢾░▒▓██
-</pre>
-
-
-
                        [ DEXAKAUN RANSOMWARE ]
                You’ve been hit by Deepcytes. Time is running.
 
